@@ -1,0 +1,21 @@
+{
+  "name": "sorted-indexof",
+  "version": "0.0.0",
+  "description": "Given two sorted arrays, a and b, efficiently return an array of indexes of b's elements in a.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.2",
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/sorted-indexof.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/sorted-indexof/issues"
+  },
+  "homepage": "https://github.com/mafintosh/sorted-indexof"
+}
