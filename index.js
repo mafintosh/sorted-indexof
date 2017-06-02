@@ -27,4 +27,3 @@ function indexOf (left, right) {
 
   return result
 }
-

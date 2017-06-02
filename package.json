@@ -8,6 +8,9 @@
     "standard": "^10.0.2",
     "tape": "^4.6.3"
   },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mafintosh/sorted-indexof.git"
