@@ -9,6 +9,8 @@ Runs in `O(n+m)` where n and m are the sizes of the sorted arrays.
 npm install sorted-indexof
 ```
 
+[![Build Status](https://travis-ci.org/mafintosh/sorted-indexof.svg?branch=master)](https://travis-ci.org/mafintosh/sorted-indexof)
+
 ## Usage
 
 ``` js
