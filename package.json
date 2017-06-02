@@ -1,6 +1,6 @@
 {
   "name": "sorted-indexof",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Given two sorted arrays, a and b, efficiently return an array of indexes of b's elements in a.",
   "main": "index.js",
   "dependencies": {},
